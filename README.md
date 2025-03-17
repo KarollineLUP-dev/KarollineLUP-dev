@@ -15,8 +15,8 @@ Sou adepta de **metodologias ágeis** (SCRUM/Kanban) e utilizo ferramentas como 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarollineLUP-dev&show_icons=true&theme=radical" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarollineLUP-dev&layout=donut&theme=tokyonight" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KarollineLUP-dev&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarollineLUP-dev&layout=donut&theme=tokyonight" height="200"/>
 </div>
 
 ---
